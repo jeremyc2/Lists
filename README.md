@@ -2,7 +2,7 @@
 
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
-2. https://www.bigocheatsheet.com/
+2. [Big-O](https://www.bigocheatsheet.com/)
 
 ## Developer Best Practices
 1. Conventional Commits
