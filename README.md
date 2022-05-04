@@ -72,5 +72,7 @@
 12. love2d
 13. Firebase
 14. React Native
+15. Swagger.io
+16. Powershell
 
 ## Ways of Working
