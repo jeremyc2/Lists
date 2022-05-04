@@ -32,7 +32,7 @@
 1. material.io
 2. fonts.google.com
 3. fonts.google.com/icons
-4. https://github.com/microsoft/vscode-icons
+4. [VS Code Icons](https://github.com/microsoft/vscode-icons)
 5. The Noun Project
 6. color.adobe.com
 7. mycolor.space
