@@ -19,6 +19,7 @@
 6. Cypress
 7. GSAP
 8. zod javascript
+9. tailwindcss
 
 ## VS Code Extensions
 1. Prettier
