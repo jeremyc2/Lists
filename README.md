@@ -70,7 +70,7 @@
 10. React
 11. Typescript
 12. love2d
-13. firebase
+13. Firebase
 14. React Native
 
 ## Ways of Working
