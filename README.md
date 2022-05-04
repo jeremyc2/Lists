@@ -20,6 +20,7 @@
 7. GSAP
 8. zod javascript
 9. tailwindcss
+10. Open Props
 
 ## VS Code Extensions
 1. Prettier
