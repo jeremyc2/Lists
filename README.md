@@ -67,5 +67,10 @@
 7. Supertokens
 8. nx.dev
 9. Flutter
+10. React
+11. Typescript
+12. love2d
+13. firebase
+14. React Native
 
 ## Ways of Working
