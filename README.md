@@ -6,9 +6,9 @@
 
 ## Developer Best Practices
 1. Conventional Commits
-2. principles.design
-3. design patterns: gang of four
-4. The a11y Project
+2. [Design Principles](https://principles.design/)
+3. design patterns: Gang of Four
+4. The A11y Project
 
 ## Dependencies and Frameworks
 1. Remotion
