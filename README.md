@@ -32,28 +32,31 @@
 
 ## Design
 1. material.io
-2. fonts.google.com
-3. fonts.google.com/icons
-4. [VS Code Icons](https://github.com/microsoft/vscode-icons)
-5. The Noun Project
 6. color.adobe.com
 7. mycolor.space
 8. coolors.co
-9. css.land
+9. [LCH Color Picker](css.land)
 10. locomotive scroll
 11. behance
 12. dribble
 13. [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
+14. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
+15. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+16. [Grid Lover - Typography](https://gridlover.net/try)
 
 ## Software
 1. VS Code
 2. Figma
 3. Grepper Chrome Extension
-4. en.eagle.cool
+4. [Eagle](en.eagle.cool)
 
 ## Assets
 1. Pexels
 2. Unsplash
+3. [Google Fonts](fonts.google.com)
+3. [Google Icons](fonts.google.com/icons)
+4. [VS Code Icons](https://github.com/microsoft/vscode-icons)
+5. The Noun Project
 
 ## Organization
 1. Notion
