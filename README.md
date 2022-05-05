@@ -7,7 +7,7 @@
 ## Developer Best Practices
 1. Conventional Commits
 2. [Design Principles](https://principles.design/)
-3. design patterns: Gang of Four
+3. [Design Patterns](https://sourcemaking.com/design_patterns)
 4. The A11y Project
 
 ## Dependencies and Frameworks
