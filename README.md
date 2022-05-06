@@ -24,6 +24,8 @@ These are a few of my favorite things
 10. [Open Props](https://open-props.style/)
 11. [Typetura](https://typetura.com/)
 12. [Storybook](https://storybook.js.org/)
+13. [SASS](https://sass-lang.com/)
+14. [Classnames](https://github.com/JedWatson/classnames)
 
 ## VS Code Extensions
 1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
