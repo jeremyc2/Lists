@@ -55,7 +55,7 @@ These are a few of my favorite things
 2. [Figma](https://www.figma.com/)
 3. [Inkscape](https://inkscape.org/)
 4. [Grepper Chrome Extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en)
-5. [Eagle](en.eagle.cool)
+5. [Eagle](https://en.eagle.cool)
 
 ## Assets
 1. [Pexels](https://www.pexels.com/)
