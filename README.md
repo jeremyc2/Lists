@@ -23,6 +23,7 @@ These are a few of my favorite things
 9. [Tailwind](https://tailwindcss.com/)
 10. [Open Props](https://open-props.style/)
 11. [Typetura](https://typetura.com/)
+12. [Storybook](https://storybook.js.org/)
 
 ## VS Code Extensions
 1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
