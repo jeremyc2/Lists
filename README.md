@@ -91,4 +91,23 @@ These are a few of my favorite things
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
 
+## Developers on YouTube
+[Coder One](https://www.youtube.com/c/CoderOne)
+[Continuous Delivery](https://www.youtube.com/c/ContinuousDelivery)
+[Figma](https://www.youtube.com/c/Figmadesign)
+[Fireship](https://www.youtube.com/c/Fireship)
+[Flutter](https://www.youtube.com/c/flutterdev)
+[Flux](https://www.youtube.com/c/FluxWithRanSegall)
+[Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)
+[Pedro Technologies](https://www.youtube.com/c/PedroTechnologies)
+[Program With Erik](https://www.youtube.com/c/ProgramWithErik)
+[ui dot dev](https://www.youtube.com/c/uidotdev)
+[VS Code](https://www.youtube.com/c/Code)
+[WebDev Simplified](https://www.youtube.com/c/WebDevSimplified)
+[Adam Argyle Ink](https://www.youtube.com/c/AdamArgyleInk)
+[Challacade](https://www.youtube.com/c/Challacade)
+[Design Course](https://www.youtube.com/c/DesignCourse)
+[Harry Wolff](https://www.youtube.com/c/hswolff)
+[Logos By Nick](https://www.youtube.com/c/LogosByNick)
+
 ## Ways of Working
