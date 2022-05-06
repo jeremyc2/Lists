@@ -101,7 +101,7 @@ These are a few of my favorite things
 7. [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)
 8. [Pedro Technologies](https://www.youtube.com/c/PedroTechnologies)
 9. [Program With Erik](https://www.youtube.com/c/ProgramWithErik)
-10. [ui dot dev](https://www.youtube.com/c/uidotdev)
+10. [UI dot dev](https://www.youtube.com/c/uidotdev)
 11. [VS Code](https://www.youtube.com/c/Code)
 12. [WebDev Simplified](https://www.youtube.com/c/WebDevSimplified)
 13. [Adam Argyle Ink](https://www.youtube.com/c/AdamArgyleInk)
