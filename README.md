@@ -21,6 +21,7 @@
 8. zod javascript
 9. tailwindcss
 10. Open Props
+11. Typetura
 
 ## VS Code Extensions
 1. Prettier
