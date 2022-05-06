@@ -86,4 +86,7 @@ These are a few of my favorite things
 15. [Swagger.io](https://swagger.io/)
 16. [Powershell](https://docs.microsoft.com/en-us/powershell/)
 
+## Scripting
+1. [Degit](https://github.com/Rich-Harris/degit)
+
 ## Ways of Working
