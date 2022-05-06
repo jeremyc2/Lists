@@ -1,4 +1,5 @@
 # Lists
+These are a few of my favorite things
 
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
@@ -30,6 +31,7 @@
 4. [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 5. [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
 6. [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+7. [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
 
 ## Design
 1. [Material Design](https://material.io/)
