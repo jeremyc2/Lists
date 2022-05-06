@@ -11,45 +11,46 @@
 4. [The A11y Project](https://www.a11yproject.com/)
 
 ## Dependencies and Frameworks
-1. Remotion
-2. React Query
-3. React Table
-4. React Spring
-5. Jest
-6. Cypress
-7. GSAP
-8. zod javascript
-9. tailwindcss
-10. Open Props
-11. Typetura
+1. [Remotion](https://www.remotion.dev/)
+2. [React Query](https://react-query.tanstack.com/)
+3. [React Table](https://react-table.tanstack.com/)
+4. [React Spring](https://react-spring.io/)
+5. [Jest](https://jestjs.io/)
+6. [Cypress](https://www.cypress.io/)
+7. [GSAP](https://greensock.com/gsap/)
+8. [Zod](https://github.com/colinhacks/zod)
+9. [Tailwind](https://tailwindcss.com/)
+10. [Open Props](https://open-props.style/)
+11. [Typetura](https://typetura.com/)
 
 ## VS Code Extensions
-1. Prettier
-2. Git Lense 
-3. ErrorLense
-4. Indent Rainbow
-5. Glean
-6. Polacode
+1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+2. [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+3. [ErrorLense](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+4. [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+5. [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
+6. [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 ## Design
-1. material.io
-6. color.adobe.com
-7. mycolor.space
-8. coolors.co
-9. [LCH Color Picker](css.land)
-10. locomotive scroll
-11. behance
-12. dribble
-13. [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
-14. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
-15. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
-16. [Grid Lover - Typography](https://gridlover.net/try)
+1. [Material Design](https://material.io/)
+2. [Adobe Color](https://color.adobe.com)
+3. [My Color Space](https://mycolor.space)
+4. [Coolors](coolors.co)
+5. [LCH Color Picker](css.land)
+6. locomotive scroll
+7. [Dribble](https://dribbble.com/)
+8. [Behance](https://www.behance.net/galleries/ui-ux)
+9. [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
+10. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
+11. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+12. [Grid Lover - Typography](https://gridlover.net/try)
 
 ## Software
 1. VS Code
 2. Figma
-3. Grepper Chrome Extension
-4. [Eagle](en.eagle.cool)
+3. Inkscape
+4. Grepper Chrome Extension
+5. [Eagle](en.eagle.cool)
 
 ## Assets
 1. Pexels
