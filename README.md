@@ -6,7 +6,7 @@ These are a few of my favorite things
 2. [Big-O](https://www.bigocheatsheet.com/)
 
 ## Developer Best Practices
-1. [Conventional Commits](www.conventionalcommits.org/)
+1. [Conventional Commits](https://www.conventionalcommits.org/)
 2. [Design Principles](https://principles.design/)
 3. [Design Patterns](https://sourcemaking.com/design_patterns)
 4. [The A11y Project](https://www.a11yproject.com/)
