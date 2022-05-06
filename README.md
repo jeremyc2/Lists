@@ -87,6 +87,8 @@ These are a few of my favorite things
 14. [React Native](https://reactnative.dev/)
 15. [Swagger.io](https://swagger.io/)
 16. [Powershell](https://docs.microsoft.com/en-us/powershell/)
+17. Tauri
+18. Electron
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
