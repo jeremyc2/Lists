@@ -46,41 +46,41 @@
 12. [Grid Lover - Typography](https://gridlover.net/try)
 
 ## Software
-1. VS Code
-2. Figma
-3. Inkscape
-4. Grepper Chrome Extension
+1. [VS Code](https://code.visualstudio.com/)
+2. [Figma](https://www.figma.com/)
+3. [Inkscape](https://inkscape.org/)
+4. [Grepper Chrome Extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en)
 5. [Eagle](en.eagle.cool)
 
 ## Assets
-1. Pexels
-2. Unsplash
+1. [Pexels](https://www.pexels.com/)
+2. [Unsplash](https://unsplash.com/)
 3. [Google Fonts](fonts.google.com)
 3. [Google Icons](fonts.google.com/icons)
 4. [VS Code Icons](https://github.com/microsoft/vscode-icons)
-5. The Noun Project
+5. [The Noun Project](https://thenounproject.com/)
 
 ## Organization
-1. Notion
-2. Whimsical
-3. GitHub projects (beta)
+1. [Notion](https://www.notion.so/)
+2. [Whimsical](https://whimsical.com/)
+3. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 
 ## Tech Stack
-1. napkin.io
-2. tRPC
-3. Next.js
-4. Vue
-5. Puppeteer
-6. Danfo.js
-7. Supertokens
-8. nx.dev
-9. Flutter
-10. React
-11. Typescript
-12. love2d
-13. Firebase
-14. React Native
-15. Swagger.io
-16. Powershell
+1. [napkin.io](https://www.napkin.io/)
+2. [tRPC](https://trpc.io/)
+3. [Next.js](https://nextjs.org/)
+4. [Vue](https://vuejs.org/)
+5. [Puppeteer](https://pptr.dev/)
+6. [Danfo.js](https://danfo.jsdata.org/)
+7. [Supertokens](https://supertokens.com/)
+8. [Nx](https://nx.dev/)
+9. [Flutter](https://flutter.dev/)
+10. [React](https://reactjs.org/)
+11. [Typescript](https://www.typescriptlang.org/)
+12. [LÖVE](https://love2d.org/)
+13. [Firebase](https://firebase.google.com/)
+14. [React Native](https://reactnative.dev/)
+15. [Swagger.io](https://swagger.io/)
+16. [Powershell](https://docs.microsoft.com/en-us/powershell/)
 
 ## Ways of Working
