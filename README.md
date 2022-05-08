@@ -42,13 +42,12 @@ These are a few of my favorite things
 3. [My Color Space](https://mycolor.space)
 4. [Coolors](coolors.co)
 5. [LCH Color Picker](css.land)
-6. locomotive scroll
-7. [Dribble](https://dribbble.com/)
-8. [Behance](https://www.behance.net/galleries/ui-ux)
-9. [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
-10. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
-11. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
-12. [Grid Lover - Typography](https://gridlover.net/try)
+6. [Dribble](https://dribbble.com/)
+7. [Behance](https://www.behance.net/galleries/ui-ux)
+8. [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
+9. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
+10. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+11. [Grid Lover - Typography](https://gridlover.net/try)
 
 ## Software
 1. [VS Code](https://code.visualstudio.com/)
