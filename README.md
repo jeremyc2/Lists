@@ -110,5 +110,3 @@ These are a few of my favorite things
 15. [Design Course](https://www.youtube.com/c/DesignCourse)
 16. [Harry Wolff](https://www.youtube.com/c/hswolff)
 17. [Logos By Nick](https://www.youtube.com/c/LogosByNick)
-
-## Ways of Working
