@@ -35,19 +35,21 @@ These are a few of my favorite things
 5. [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
 6. [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 7. [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
+8. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 ## Design
 1. [Material Design](https://material.io/)
 2. [Adobe Color](https://color.adobe.com)
 3. [My Color Space](https://mycolor.space)
 4. [Coolors](coolors.co)
-5. [LCH Color Picker](css.land)
-6. [Dribble](https://dribbble.com/)
-7. [Behance](https://www.behance.net/galleries/ui-ux)
-8. [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
-9. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
-10. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
-11. [Grid Lover - Typography](https://gridlover.net/try)
+5. [Open Color](https://yeun.github.io/open-color/)
+6. [LCH Color Picker](css.land)
+7. [Dribble](https://dribbble.com/)
+8. [Behance](https://www.behance.net/galleries/ui-ux)
+9.  [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
+10. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
+11. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+12. [Grid Lover - Typography](https://gridlover.net/try)
 
 ## Software
 1. [VS Code](https://code.visualstudio.com/)
