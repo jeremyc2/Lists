@@ -41,9 +41,9 @@ These are a few of my favorite things
 1. [Material Design](https://material.io/)
 2. [Adobe Color](https://color.adobe.com)
 3. [My Color Space](https://mycolor.space)
-4. [Coolors](coolors.co)
+4. [Coolors](https://coolors.co)
 5. [Open Color](https://yeun.github.io/open-color/)
-6. [LCH Color Picker](css.land)
+6. [LCH Color Picker](https://css.land)
 7. [Dribble](https://dribbble.com/)
 8. [Behance](https://www.behance.net/galleries/ui-ux)
 9.  [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
@@ -61,8 +61,8 @@ These are a few of my favorite things
 ## Assets
 1. [Pexels](https://www.pexels.com/)
 2. [Unsplash](https://unsplash.com/)
-3. [Google Fonts](fonts.google.com)
-3. [Google Icons](fonts.google.com/icons)
+3. [Google Fonts](https://fonts.google.com)
+3. [Google Icons](https://fonts.google.com/icons)
 4. [VS Code Icons](https://github.com/microsoft/vscode-icons)
 5. [The Noun Project](https://thenounproject.com/)
 
