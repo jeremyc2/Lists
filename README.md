@@ -43,7 +43,7 @@ These are a few of my favorite things
 3. [My Color Space](https://mycolor.space)
 4. [Coolors](https://coolors.co)
 5. [Open Color](https://yeun.github.io/open-color/)
-6. [LCH Color Picker](https://css.land)
+6. [LCH Color Picker](https://css.land/lch/)
 7. [Dribble](https://dribbble.com/)
 8. [Behance](https://www.behance.net/galleries/ui-ux)
 9.  [layout generator](https://codepen.io/jipdev/full/ZEJOWjP)
