@@ -114,3 +114,6 @@ These are a few of my favorite things
 16. [Harry Wolff](https://www.youtube.com/c/hswolff)
 17. [Logos By Nick](https://www.youtube.com/c/LogosByNick)
 18. [Chunbuns](https://youtube.com/c/chunbuns)
+
+## Salary Negotiations
+1. [Levels FYI](https://levels.fyi)
