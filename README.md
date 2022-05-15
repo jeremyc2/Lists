@@ -10,7 +10,7 @@ These are a few of my favorite things
 2. [Design Principles](https://principles.design/)
 3. [Design Patterns](https://sourcemaking.com/design_patterns)
 4. [The A11y Project](https://www.a11yproject.com/)
-5. [Double Diamond Design Process]()
+5. [Double Diamond Design Process](https://uxdesign.cc/beyond-the-double-diamond-thinking-about-a-better-design-process-model-de4fdb902cf)
 
 ## Dependencies and Frameworks
 1. [Remotion](https://www.remotion.dev/)
