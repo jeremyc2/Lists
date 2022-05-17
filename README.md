@@ -26,7 +26,7 @@ These are a few of my favorite things
 11. [Typetura](https://typetura.com/)
 12. [Storybook](https://storybook.js.org/)
 13. [SASS](https://sass-lang.com/)
-14. [Classnames](https://github.com/JedWatson/classnames)
+14. [Clsx](https://github.com/lukeed/clsx)
 
 ## VS Code Extensions
 1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -69,7 +69,6 @@ These are a few of my favorite things
 
 ## Organization
 1. [Notion](https://www.notion.so/)
-2. [Whimsical](https://whimsical.com/)
 3. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 
 ## Tech Stack
