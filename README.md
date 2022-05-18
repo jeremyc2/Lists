@@ -34,9 +34,11 @@ These are a few of my favorite things
 3. [ErrorLense](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 4. [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 5. [Glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)
-6. [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-7. [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
-8. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+6. [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
+7. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+8. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+9.  [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
+10. [MDX Preview](https://marketplace.visualstudio.com/items?itemName=xyc.vscode-mdx-preview)
 
 ## Design
 1. [Material Design](https://material.io/)
