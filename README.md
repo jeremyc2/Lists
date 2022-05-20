@@ -104,7 +104,6 @@ These are a few of my favorite things
 3. [Figma](https://www.youtube.com/c/Figmadesign)
 4. [Fireship](https://www.youtube.com/c/Fireship)
 5. [Flutter](https://www.youtube.com/c/flutterdev)
-6. [Flux](https://www.youtube.com/c/FluxWithRanSegall)
 7. [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)
 8. [Pedro Technologies](https://www.youtube.com/c/PedroTechnologies)
 9. [Program With Erik](https://www.youtube.com/c/ProgramWithErik)
