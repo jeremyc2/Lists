@@ -11,6 +11,7 @@ These are a few of my favorite things
 3. [Design Patterns](https://sourcemaking.com/design_patterns)
 4. [The A11y Project](https://www.a11yproject.com/)
 5. [Double Diamond Design Process](https://uxdesign.cc/beyond-the-double-diamond-thinking-about-a-better-design-process-model-de4fdb902cf)
+6. [Trunk Based Development](https://trunkbaseddevelopment.com/) [#1](https://www.youtube.com/watch?v=v4Ijkq6Myfc) [#2](https://www.davefarley.net/?p=247)
 
 ## Dependencies and Frameworks
 1. [Remotion](https://www.remotion.dev/)
