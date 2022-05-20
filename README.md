@@ -39,6 +39,7 @@ These are a few of my favorite things
 8. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 9. [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
 10. [MDX Preview](https://marketplace.visualstudio.com/items?itemName=xyc.vscode-mdx-preview)
+11. [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 ## Design
 1. [Material Design](https://material.io/)
