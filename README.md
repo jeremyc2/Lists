@@ -63,6 +63,7 @@ These are a few of my favorite things
 3. [Inkscape](https://inkscape.org/)
 4. [Grepper Chrome Extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en)
 5. [Eagle](https://en.eagle.cool)
+6. [Rectangle (Mac)](https://rectangleapp.com/)
 
 ## Assets
 1. [Pexels](https://www.pexels.com/)
