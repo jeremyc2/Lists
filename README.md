@@ -123,6 +123,8 @@ These are a few of my favorite things
 
 ## Salary Negotiations
 1. [Levels FYI](https://levels.fyi)
+2. [Fishbowl](https://www.fishbowlapp.com)
+3. [Comparably](https://www.comparably.com)
 
 ## Up and Coming
 1. [Infima](https://infima.dev/)
