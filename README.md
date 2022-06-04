@@ -128,3 +128,7 @@ These are a few of my favorite things
 
 ## Up and Coming
 1. [Infima](https://infima.dev/)
+2. [Houdini](https://developer.mozilla.org/en-US/docs/Web/Guide/Houdini)
+
+## Fun
+1. [Houdini Examples](https://www.houdini.how)
