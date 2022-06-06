@@ -4,6 +4,8 @@ These are a few of my favorite things
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
 2. [Big-O](https://www.bigocheatsheet.com/)
+3. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+4. [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
 
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
