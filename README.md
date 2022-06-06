@@ -83,6 +83,7 @@ These are a few of my favorite things
 1. [napkin.io](https://www.napkin.io/)
 2. [tRPC](https://trpc.io/)
 3. [Next.js](https://nextjs.org/)
+4. [RedwoodJS](https://redwoodjs.com/)
 4. [Vue](https://vuejs.org/)
 5. [Solid](https://www.solidjs.com/)
 6. [Svelte](https://svelte.dev/)
