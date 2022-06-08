@@ -71,13 +71,12 @@ These are a few of my favorite things
 1. [Pexels](https://www.pexels.com/)
 2. [Unsplash](https://unsplash.com/)
 3. [Google Fonts](https://fonts.google.com)
-3. [Google Icons](https://fonts.google.com/icons)
-4. [VS Code Icons](https://github.com/microsoft/vscode-icons)
-5. [The Noun Project](https://thenounproject.com/)
-
+4. [Google Icons](https://fonts.google.com/icons)
+5. [VS Code Icons](https://github.com/microsoft/vscode-icons)
+6. [The Noun Project](https://thenounproject.com/)
 ## Organization
 1. [Notion](https://www.notion.so/)
-3. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+2. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 
 ## Tech Stack
 1. [napkin.io](https://www.napkin.io/)
@@ -100,7 +99,8 @@ These are a few of my favorite things
 17. [Swagger.io](https://swagger.io/)
 18. [Powershell](https://docs.microsoft.com/en-us/powershell/)
 19. [Tauri](https://tauri.studio/)
-20. [Electron](https://www.electronjs.org/)
+20. [Ionic](ionicframework.com)
+21. [Electron](https://www.electronjs.org/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
@@ -135,3 +135,4 @@ These are a few of my favorite things
 
 ## Fun
 1. [Houdini Examples](https://www.houdini.how)
+2. [whats.new](https://whats.new/shortcuts/)
