@@ -74,7 +74,9 @@ These are a few of my favorite things
 3. [Google Fonts](https://fonts.google.com)
 4. [Google Icons](https://fonts.google.com/icons)
 5. [VS Code Icons](https://github.com/microsoft/vscode-icons)
-6. [The Noun Project](https://thenounproject.com/)
+6. [Hero Icons](https://heroicons.com/)
+7. [The Noun Project](https://thenounproject.com/)
+
 ## Organization
 1. [Notion](https://www.notion.so/)
 2. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
