@@ -111,6 +111,7 @@ These are a few of my favorite things
 19. [Tauri](https://tauri.studio/)
 20. [Ionic](ionicframework.com)
 21. [Electron](https://www.electronjs.org/)
+22. [Vite](https://vitejs.dev/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
