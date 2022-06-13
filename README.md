@@ -46,6 +46,12 @@ These are a few of my favorite things
 11. [MDX Preview](https://marketplace.visualstudio.com/items?itemName=xyc.vscode-mdx-preview)
 12. [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
+### Tailwind
+1. [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+1. [Refactor CSS](https://marketplace.visualstudio.com/items?itemName=urbantrout.refactor-css)
+2. [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
+3. [Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
+
 ## Design
 1. [Material Design](https://material.io/)
 2. [Adobe Color](https://color.adobe.com)
