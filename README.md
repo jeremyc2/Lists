@@ -33,6 +33,7 @@ These are a few of my favorite things
 14. [Clsx](https://github.com/lukeed/clsx)
 
 ## VS Code Extensions
+1. [Turbo Console Log]()
 1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 2. [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 3. [ErrorLense](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
