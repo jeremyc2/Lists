@@ -82,6 +82,7 @@ These are a few of my favorite things
 5. [VS Code Icons](https://github.com/microsoft/vscode-icons)
 6. [Hero Icons](https://heroicons.com/)
 7. [The Noun Project](https://thenounproject.com/)
+8. [Hero Patterns](https://heropatterns.com/)
 
 ## Organization
 1. [Notion](https://www.notion.so/)
