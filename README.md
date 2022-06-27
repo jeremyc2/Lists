@@ -113,6 +113,7 @@ These are a few of my favorite things
 20. [Ionic](ionicframework.com)
 21. [Electron](https://www.electronjs.org/)
 22. [Vite](https://vitejs.dev/)
+23. [esbuild](https://esbuild.github.io/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
