@@ -1,2 +1,5 @@
-## I'd buy, even though I've never read
+## Books to buy
 1. Personal Memoirs of U. S. Grant
+
+## Where to buy
+1. [bookshop.org](https://bookshop.org/)
