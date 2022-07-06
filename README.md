@@ -52,7 +52,6 @@ These are a few of my favorite things
 1. [Refactor CSS](https://marketplace.visualstudio.com/items?itemName=urbantrout.refactor-css)
 2. [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
 3. [Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
-4. [Inline Fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
 
 ## Design
 1. [Material Design](https://material.io/)
@@ -115,6 +114,7 @@ These are a few of my favorite things
 21. [Electron](https://www.electronjs.org/)
 22. [Vite](https://vitejs.dev/)
 23. [esbuild](https://esbuild.github.io/)
+24. [Bun](https://bun.sh)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
