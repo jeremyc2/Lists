@@ -84,6 +84,7 @@ These are a few of my favorite things
 6. [Hero Icons](https://heroicons.com/)
 7. [The Noun Project](https://thenounproject.com/)
 8. [Hero Patterns](https://heropatterns.com/)
+9. [Spinners](https://cssloaders.github.io/)
 
 ## Organization
 1. [Notion](https://www.notion.so/)
