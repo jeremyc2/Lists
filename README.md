@@ -15,7 +15,7 @@ These are a few of my favorite things
 5. [Double Diamond Design Process](https://uxdesign.cc/beyond-the-double-diamond-thinking-about-a-better-design-process-model-de4fdb902cf)
 6. [Trunk Based Development](https://trunkbaseddevelopment.com/) [#1](https://www.youtube.com/watch?v=v4Ijkq6Myfc) [#2](https://youtu.be/lXQEi1O5IOI) [#3](https://www.davefarley.net/?p=247)
 7. [Software Estimates](https://youtu.be/v21jg8wb1eU)
-8. [Redux in Large Applications)[https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb]
+8. [Redux in Large Applications](https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
 
 ## Dependencies and Frameworks
 1. [Remotion](https://www.remotion.dev/)
