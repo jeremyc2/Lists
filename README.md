@@ -75,6 +75,7 @@ These are a few of my favorite things
 4. [Grepper Chrome Extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en)
 5. [Eagle](https://en.eagle.cool)
 6. [Rectangle (Mac)](https://rectangleapp.com/)
+7. [Warp](https://www.warp.dev/)
 
 ## Assets
 1. [Pexels](https://www.pexels.com/)
