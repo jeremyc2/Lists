@@ -118,6 +118,8 @@ These are a few of my favorite things
 22. [Vite](https://vitejs.dev/)
 23. [esbuild](https://esbuild.github.io/)
 24. [Bun](https://bun.sh)
+25. [Rapid API](https://rapidapi.com/)
+26. [Postman](https://www.postman.com/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
