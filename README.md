@@ -6,6 +6,7 @@ These are a few of my favorite things
 2. [Big-O](https://www.bigocheatsheet.com/)
 3. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 4. [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
+5. [JS Util Functions](https://github.com/WebDevSimplified/js-util-functions)
 
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
