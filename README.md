@@ -34,6 +34,7 @@ These are a few of my favorite things
 13. [SASS](https://sass-lang.com/)
 14. [Clsx](https://github.com/lukeed/clsx)
 15. [Zustand](https://github.com/pmndrs/zustand)
+16. [colord](https://colord.omgovich.ru/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
