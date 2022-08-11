@@ -148,6 +148,9 @@ These are a few of my favorite things
 2. [Fishbowl](https://www.fishbowlapp.com)
 3. [Comparably](https://www.comparably.com)
 
+## Documentation 
+1. [Scribe](https://scribehow.com/)
+
 ## Up and Coming
 1. [Infima](https://infima.dev/)
 2. [Houdini](https://developer.mozilla.org/en-US/docs/Web/Guide/Houdini)
