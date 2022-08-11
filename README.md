@@ -89,8 +89,7 @@ These are a few of my favorite things
 9. [Spinners](https://cssloaders.github.io/)
 
 ## Organization
-1. [Notion](https://www.notion.so/)
-2. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+1. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 
 ## Tech Stack
 1. [napkin.io](https://www.napkin.io/)
