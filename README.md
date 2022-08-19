@@ -123,6 +123,7 @@ These are a few of my favorite things
 26. [Bun](https://bun.sh)
 27. [Rapid API](https://rapidapi.com/)
 28. [Postman](https://www.postman.com/)
+29. [Astro](https://astro.build/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
