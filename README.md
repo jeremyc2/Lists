@@ -124,6 +124,8 @@ These are a few of my favorite things
 27. [Rapid API](https://rapidapi.com/)
 28. [Postman](https://www.postman.com/)
 29. [Astro](https://astro.build/)
+30. [Parcel](https://parceljs.org/)
+31. [PNPM](https://pnpm.io/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
