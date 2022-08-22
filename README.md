@@ -128,6 +128,7 @@ These are a few of my favorite things
 29. [Astro](https://astro.build/)
 30. [Parcel](https://parceljs.org/)
 31. [PNPM](https://pnpm.io/)
+32. [lit](https://lit.dev/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
