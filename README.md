@@ -3,10 +3,12 @@ These are a few of my favorite things
 
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
-2. [Big-O](https://www.bigocheatsheet.com/)
-3. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
-4. [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
-5. [JS Util Functions](https://github.com/WebDevSimplified/js-util-functions)
+2. [patterns.dev](https://www.patterns.dev/)
+3. [Tao of React](https://alexkondov.com/tao-of-react/)
+4. [Big-O](https://www.bigocheatsheet.com/)
+5. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+6. [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
+7. [JS Util Functions](https://github.com/WebDevSimplified/js-util-functions)
 
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
