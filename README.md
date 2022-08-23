@@ -38,6 +38,7 @@ These are a few of my favorite things
 15. [Zustand](https://github.com/pmndrs/zustand)
 16. [colord](https://colord.omgovich.ru/)
 17. [Just](https://github.com/angus-c/just)
+18. [Vitest](https://vitest.dev/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
@@ -130,6 +131,7 @@ These are a few of my favorite things
 31. [PNPM](https://pnpm.io/)
 32. [Lit](https://lit.dev/)
 33. [Preact](https://preactjs.com/)
+34. [PKG](https://github.com/vercel/pkg)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
