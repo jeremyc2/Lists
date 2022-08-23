@@ -9,6 +9,7 @@ These are a few of my favorite things
 5. [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 6. [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
 7. [JS Util Functions](https://github.com/WebDevSimplified/js-util-functions)
+8. [Lit for React Devs](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs)
 
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
