@@ -127,7 +127,7 @@ These are a few of my favorite things
 19. [Swagger.io](https://swagger.io/)
 20. [Powershell](https://docs.microsoft.com/en-us/powershell/)
 21. [Tauri](https://tauri.studio/)
-22. [Ionic](ionicframework.com)
+22. [Ionic](https://ionicframework.com/)
 23. [Electron](https://www.electronjs.org/)
 24. [Vite](https://vitejs.dev/)
 25. [esbuild](https://esbuild.github.io/)
