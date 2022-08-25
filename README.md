@@ -43,6 +43,8 @@ These are a few of my favorite things
 19. [Shoelace](https://shoelace.style/)
 20. [Floating UI](https://floating-ui.com/)
 21. [Lunr](https://lunrjs.com/)
+22. [Flamethrower](https://github.com/fireship-io/flamethrower)
+23. [Playwright](https://playwright.dev/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
