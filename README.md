@@ -40,6 +40,9 @@ These are a few of my favorite things
 16. [colord](https://colord.omgovich.ru/)
 17. [Just](https://github.com/angus-c/just)
 18. [Vitest](https://vitest.dev/)
+19. [Shoelace](https://shoelace.style/)
+20. [Floating UI](https://floating-ui.com/)
+21. [Lunr](https://lunrjs.com/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
@@ -94,6 +97,8 @@ These are a few of my favorite things
 7. [The Noun Project](https://thenounproject.com/)
 8. [Hero Patterns](https://heropatterns.com/)
 9. [Spinners](https://cssloaders.github.io/)
+10. [Bootstrap Icons](https://icons.getbootstrap.com/)
+11. [Undraw](https://undraw.co/)
 
 ## Organization
 1. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
@@ -133,6 +138,7 @@ These are a few of my favorite things
 32. [Lit](https://lit.dev/)
 33. [Preact](https://preactjs.com/)
 34. [PKG](https://github.com/vercel/pkg)
+35. [Docsify](https://docsify.js.org/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
