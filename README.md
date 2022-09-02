@@ -48,6 +48,7 @@ These are a few of my favorite things
 23. [Flamethrower](https://github.com/fireship-io/flamethrower)
 24. [Playwright](https://playwright.dev/)
 25. [From AirBnB](https://airbnb.io/)
+26. [SWC](https://swc.rs/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
