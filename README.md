@@ -11,6 +11,7 @@ These are a few of my favorite things
 7. [JS Util Functions](https://github.com/WebDevSimplified/js-util-functions)
 8. [Lit for React Devs](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs)
 9. [CUBE](https://cube.fyi/)
+10. [AST Explorer](https://astexplorer.net/)
 
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
