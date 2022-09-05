@@ -13,6 +13,9 @@ These are a few of my favorite things
 9. [CUBE](https://cube.fyi/)
 10. [Babel Transformation Guide](https://lihautan.com/step-by-step-guide-for-writing-a-babel-transformation/)
 
+## Cool Stuff
+1. [Streams with Fetch](https://developer.chrome.com/articles/fetch-streaming-requests/)
+
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
 2. [Design Principles](https://principles.design/)
