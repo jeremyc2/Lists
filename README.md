@@ -106,6 +106,7 @@ These are a few of my favorite things
 9. [Spinners](https://cssloaders.github.io/)
 10. [Bootstrap Icons](https://icons.getbootstrap.com/)
 11. [Undraw](https://undraw.co/)
+12. [Blurhash](https://blurha.sh/)
 
 ## Organization
 1. [GitHub Projects (Beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
