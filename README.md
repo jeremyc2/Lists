@@ -12,6 +12,7 @@ These are a few of my favorite things
 8. [Lit for React Devs](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs)
 9. [CUBE](https://cube.fyi/)
 10. [Babel Transformation Guide](https://lihautan.com/step-by-step-guide-for-writing-a-babel-transformation/)
+11. [Babel Plugin Handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md)
 
 ## Cool Stuff
 1. [Streams with Fetch](https://developer.chrome.com/articles/fetch-streaming-requests/)
