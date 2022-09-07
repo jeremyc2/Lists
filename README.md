@@ -189,3 +189,4 @@ These are a few of my favorite things
 ## Fun
 1. [Houdini Examples](https://www.houdini.how)
 2. [whats.new](https://whats.new/shortcuts/)
+3. [Chrome CLI Flags](https://peter.sh/experiments/chromium-command-line-switches/)
