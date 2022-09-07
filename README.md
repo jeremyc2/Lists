@@ -54,6 +54,7 @@ These are a few of my favorite things
 24. [Playwright](https://playwright.dev/)
 25. [From AirBnB](https://airbnb.io/)
 26. [SWC](https://swc.rs/)
+27. [Remix](https://remix.run/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
