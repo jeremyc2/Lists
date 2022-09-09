@@ -68,9 +68,7 @@ These are a few of my favorite things
 7. [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
 8. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 9.  [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-10. [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
-11. [MDX Preview](https://marketplace.visualstudio.com/items?itemName=xyc.vscode-mdx-preview)
-12. [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+10. [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 ### Tailwind
 1. [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
