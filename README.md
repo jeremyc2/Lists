@@ -174,6 +174,10 @@ These are a few of my favorite things
 16. [Logos By Nick](https://www.youtube.com/c/LogosByNick)
 17. [Chunbuns](https://youtube.com/c/chunbuns)
 
+## Tech Blogs
+1. [CSS Tricks](https://css-tricks.com/)
+2. [Web.dev](https://web.dev/)
+
 ## Salary Negotiations
 1. [Levels FYI](https://levels.fyi)
 2. [Fishbowl](https://www.fishbowlapp.com)
