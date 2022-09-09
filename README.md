@@ -28,6 +28,7 @@ These are a few of my favorite things
 6. [Trunk Based Development](https://trunkbaseddevelopment.com/) [#1](https://www.youtube.com/watch?v=v4Ijkq6Myfc) [#2](https://youtu.be/lXQEi1O5IOI) [#3](https://www.davefarley.net/?p=247)
 7. [Software Estimates](https://youtu.be/v21jg8wb1eU)
 8. [Redux in Large Applications](https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
+9. [FLIP animations](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
 
 ## Dependencies and Frameworks
 1. [Remotion](https://www.remotion.dev/)
