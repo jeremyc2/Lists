@@ -14,6 +14,7 @@ These are a few of my favorite things
 10. [Babel Transformation Guide](https://lihautan.com/step-by-step-guide-for-writing-a-babel-transformation/)
 11. [Babel Plugin Handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md)
 12. [Tailwind tips](https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4)
+13. [Chrome CLI Flags](https://peter.sh/experiments/chromium-command-line-switches/)
 
 ## Cool Stuff
 1. [Streams with Fetch](https://developer.chrome.com/articles/fetch-streaming-requests/)
@@ -190,4 +191,3 @@ These are a few of my favorite things
 ## Fun
 1. [Houdini Examples](https://www.houdini.how)
 2. [whats.new](https://whats.new/shortcuts/)
-3. [Chrome CLI Flags](https://peter.sh/experiments/chromium-command-line-switches/)
