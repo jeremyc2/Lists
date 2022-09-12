@@ -93,6 +93,19 @@ These are a few of my favorite things
 11. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
 12. [Grid Lover - Typography](https://gridlover.net/try)
 
+### Best Design Inspiration
+1. [Awwwards](https://www.awwwards.com/)
+2. lapa.ninja
+3. godly.website
+4. uisources
+5. mobbin
+6. uigarage.net
+7. siteinspire
+8. landingfolio.com
+
+TODO: Finish me
+https://www.youtube.com/watch?v=23Y01_aVdzM
+
 ## Software
 1. [VS Code](https://code.visualstudio.com/)
 2. [Figma](https://www.figma.com/)
