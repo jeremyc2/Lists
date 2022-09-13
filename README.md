@@ -95,16 +95,12 @@ These are a few of my favorite things
 
 ### Best Design Inspiration
 1. [Awwwards](https://www.awwwards.com/)
-2. lapa.ninja
-3. godly.website
-4. uisources
-5. mobbin
-6. uigarage.net
-7. siteinspire
-8. landingfolio.com
-
-TODO: Finish me
-https://www.youtube.com/watch?v=23Y01_aVdzM
+2. [lapa.ninja](https://www.lapa.ninja/)
+3. [godly.website](https://godly.website/)
+4. [Mobbin](https://mobbin.com)
+5. [UI Garage](https://uigarage.net/)
+6. [Site Inspire](https://www.siteinspire.com/)
+7. [Landingfolio](https://landingfolio.com/)
 
 ## Software
 1. [VS Code](https://code.visualstudio.com/)
