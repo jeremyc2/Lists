@@ -29,6 +29,7 @@ These are a few of my favorite things
 7. [Software Estimates](https://youtu.be/v21jg8wb1eU)
 8. [Redux in Large Applications](https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
 9. [FLIP animations](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
+10. [Open WC](https://open-wc.org/)
 
 ## Dependencies and Frameworks
 1. [Remotion](https://www.remotion.dev/)
