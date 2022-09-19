@@ -51,7 +51,6 @@ These are a few of my favorite things
 17. [colord](https://colord.omgovich.ru/)
 18. [Just](https://github.com/angus-c/just)
 19. [Vitest](https://vitest.dev/)
-20. [Shoelace](https://shoelace.style/)
 21. [Floating UI](https://floating-ui.com/)
 22. [Lunr](https://lunrjs.com/)
 23. [Flamethrower](https://github.com/fireship-io/flamethrower)
@@ -60,6 +59,10 @@ These are a few of my favorite things
 26. [SWC](https://swc.rs/)
 27. [Remix](https://remix.run/)
 28. [Ionic Web Components](https://ionicframework.com/docs/components)
+
+## Component Libraries
+1. [Shoelace](https://shoelace.style/)
+2. [Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/index.html)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
