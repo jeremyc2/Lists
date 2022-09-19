@@ -16,7 +16,7 @@ These are a few of my favorite things
 12. [Tailwind tips](https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4)
 13. [Chrome CLI Flags](https://peter.sh/experiments/chromium-command-line-switches/)
 
-## Cool Stuff
+## Feature Overview
 1. [Streams with Fetch](https://developer.chrome.com/articles/fetch-streaming-requests/)
 
 ## Developer Best Practices
