@@ -62,8 +62,7 @@ These are a few of my favorite things
 
 ## Component Libraries
 1. [Shoelace](https://shoelace.style/)
-2. [Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/index.html)
-3. [Wired Elements](https://wiredjs.com/)
+2. [Wired Elements](https://wiredjs.com/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
