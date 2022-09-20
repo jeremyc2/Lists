@@ -79,6 +79,7 @@ These are a few of my favorite things
 9.  [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 10. [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 11. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+12. [lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin)
 
 ### Tailwind
 1. [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
