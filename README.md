@@ -215,3 +215,5 @@ These are a few of my favorite things
 
 ## Things to check out
 1. [Framer](https://www.framer.com/)
+2. [Canva Websites](https://www.canva.com/newsroom/news/introducing-canva-websites/)
+3. [New Canva Visual Worksuite](https://www.canva.com/newsroom/news/unveiling-the-canva-visual-worksuite/)
