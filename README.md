@@ -173,6 +173,7 @@ These are a few of my favorite things
 33. [PKG](https://github.com/vercel/pkg)
 34. [Docsify](https://docsify.js.org/)
 35. [Qwik](https://qwik.builder.io/)
+36. [jsDelivr](https://www.jsdelivr.com/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
