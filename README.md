@@ -22,7 +22,8 @@ These are a few of my favorite things
 
 ## Feature Overview
 1. [Streams with Fetch](https://developer.chrome.com/articles/fetch-streaming-requests/)
-2. [Color Scheme Meta Tag](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)
+2. [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
+3. [Color Scheme Meta Tag](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)
 
 ## Developer Best Practices
 1. [Conventional Commits](https://www.conventionalcommits.org/)
