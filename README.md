@@ -66,6 +66,7 @@ These are a few of my favorite things
 26. [SWC](https://swc.rs/)
 27. [Remix](https://remix.run/)
 28. [Ionic Web Components](https://ionicframework.com/docs/components)
+29. [shiki](https://github.com/shikijs/shiki)
 
 ## Component Libraries
 1. [Shoelace](https://shoelace.style/)
