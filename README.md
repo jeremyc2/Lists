@@ -178,6 +178,7 @@ These are a few of my favorite things
 34. [Docsify](https://docsify.js.org/)
 35. [Qwik](https://qwik.builder.io/)
 36. [jsDelivr](https://www.jsdelivr.com/)
+37. [11ty](https://www.11ty.dev/)
 
 ## Scripting
 1. [Degit](https://github.com/Rich-Harris/degit)
