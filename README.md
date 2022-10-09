@@ -92,6 +92,7 @@ These are a few of my favorite things
 1. [Refactor CSS](https://marketplace.visualstudio.com/items?itemName=urbantrout.refactor-css)
 2. [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
 3. [Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
+4. [PostCSS Tailwind 11ty](https://nobody-codes-perfect.dev/blog/postcss-with-11ty/)
 
 ## Design
 1. [Material Design](https://material.io/)
