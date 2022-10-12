@@ -72,6 +72,7 @@ These are a few of my favorite things
 ## Component Libraries
 1. [Shoelace](https://shoelace.style/)
 2. [Wired Elements](https://wiredjs.com/)
+3. [Headless UI](https://headlessui.com/)
 
 ## VS Code Extensions
 1. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
@@ -107,6 +108,7 @@ These are a few of my favorite things
 10. [White Space - Spacing Friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
 11. [8pt grid](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
 12. [Grid Lover - Typography](https://gridlover.net/try)
+13. [Inter Font](https://rsms.me/inter/)
 
 ### Best Design Inspiration
 1. [Awwwards](https://www.awwwards.com/)
