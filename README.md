@@ -69,6 +69,7 @@ These are a few of my favorite things
 28. [Ionic Web Components](https://ionicframework.com/docs/components)
 29. [shiki](https://github.com/shikijs/shiki)
 30. [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+31. [Redux](https://redux.js.org/)
 
 ## Component Libraries
 1. [Shoelace](https://shoelace.style/)
