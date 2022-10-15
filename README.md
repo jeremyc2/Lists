@@ -16,6 +16,7 @@ These are a few of my favorite things
 12. [Tailwind tips](https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4)
 13. [Chrome CLI Flags](https://peter.sh/experiments/chromium-command-line-switches/)
 14. [Clippy (CSS Clip Paths)](https://bennettfeely.com/clippy/)
+15. [Smol 11ty Template](https://github.com/5t3ph/smol-11ty-starter)
 
 ## Tools
 1. [Serve](https://github.com/vercel/serve)
