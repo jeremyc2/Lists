@@ -1,8 +1,6 @@
 # Lists
 These are a few of my favorite things
 
-http://commitizen.github.io/cz-cli/
-
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
 2. [patterns.dev](https://www.patterns.dev/)
@@ -73,6 +71,7 @@ http://commitizen.github.io/cz-cli/
 29. [shiki](https://github.com/shikijs/shiki)
 30. [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 31. [Redux](https://redux.js.org/)
+32. [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer)
 
 ## Component Libraries
 1. [Shoelace](https://shoelace.style/)
