@@ -1,7 +1,9 @@
 # Lists
 These are a few of my favorite things
 
-https://railway.app/
+[Railway](https://railway.app/)
+[Create T3 App](https://github.com/t3-oss/create-t3-app)
+[T3 other recommendations](https://init.tips/others)
 
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
