@@ -95,6 +95,7 @@ These are a few of my favorite things
 10. [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 11. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 12. [lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin)
+13. [Quicktype](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
 ### Tailwind
 1. [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
