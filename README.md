@@ -1,6 +1,8 @@
 # Lists
 These are a few of my favorite things
 
+https://medium.com/doctolib/react-query-cachetime-vs-staletime-ec74defc483e
+
 ## T3 Stack
 1. [Create T3 App](https://github.com/t3-oss/create-t3-app)
 2. [T3 other recommendations](https://init.tips/others)
