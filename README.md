@@ -5,7 +5,7 @@ https://medium.com/doctolib/react-query-cachetime-vs-staletime-ec74defc483e
 
 ## T3 Stack
 1. [Create T3 App](https://github.com/t3-oss/create-t3-app)
-2. [T3 other recommendations](https://init.tips/others)
+2. [T3 other recommendations](https://create.t3.gg/en/other-recs)
 
 ## Cheatsheets
 1. [Front-End #1 Reference](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7?gi=889a091e3fec)
