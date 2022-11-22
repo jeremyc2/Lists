@@ -2,6 +2,7 @@
 These are a few of my favorite things
 
 https://medium.com/doctolib/react-query-cachetime-vs-staletime-ec74defc483e
+https://medium.com/swlh/using-firestore-with-typescript-65bd2a602945
 
 ## T3 Stack
 1. [Create T3 App](https://github.com/t3-oss/create-t3-app)
