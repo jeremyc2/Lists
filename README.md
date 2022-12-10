@@ -2,6 +2,8 @@
 
 https://www.tiktok.com/t/ZTR4sxNrG/
 
+Upstash
+
 These are a few of my favorite things
 
 https://medium.com/doctolib/react-query-cachetime-vs-staletime-ec74defc483e
