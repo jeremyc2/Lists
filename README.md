@@ -2,6 +2,8 @@
 
 https://www.tiktok.com/t/ZTR4sxNrG/
 
+TS error translator vs code
+
 Upstash
 
 These are a few of my favorite things
