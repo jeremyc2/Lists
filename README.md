@@ -4,6 +4,8 @@ https://www.tiktok.com/t/ZTR4sxNrG/
 
 TS error translator vs code
 
+https://github.com/terkelg/prompts
+
 Upstash
 
 These are a few of my favorite things
