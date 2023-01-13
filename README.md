@@ -3,6 +3,8 @@
 Civet
 https://github.com/DanielXMoore/Civet
 
+https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries
+
 https://github.com/elbywan/wretch
 
 https://www.tiktok.com/t/ZTR4sxNrG/
