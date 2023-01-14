@@ -13,6 +13,8 @@ TS error translator vs code
 
 https://github.com/terkelg/prompts
 
+https://github.com/changesets/changesets
+
 Upstash
 
 These are a few of my favorite things
