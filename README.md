@@ -2,6 +2,8 @@
 
 https://www.scriptkit.com/
 
+https://github.com/cypress-io/cypress-realworld-app/tree/develop/src%2Fmachines
+
 Npx depcheck
 
 https://github.com/preconstruct/preconstruct
