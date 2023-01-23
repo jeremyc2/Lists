@@ -2,6 +2,8 @@
 
 https://starship.rs/
 
+import cost extension
+
 https://github.com/google/zx
 
 Gum shell scripts
