@@ -2,6 +2,8 @@
 
 https://starship.rs/
 
+Gum shell scripts
+
 Chakra UI↗
 
 Mantine↗
