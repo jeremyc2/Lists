@@ -1,6 +1,6 @@
 # Lists
 
-https://charm.sh/
+https://starship.sh/
 
 Chakra UI↗
 
