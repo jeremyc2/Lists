@@ -2,6 +2,8 @@
 
 https://starship.rs/
 
+https://github.com/google/zx
+
 Gum shell scripts
 
 Chakra UI↗
