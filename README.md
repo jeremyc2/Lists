@@ -2,6 +2,8 @@
 
 https://starship.rs/
 
+https://github.com/mattpocock/zod-fetch
+
 Yo code
 
 https://github.com/millsp/ts-toolbelt
