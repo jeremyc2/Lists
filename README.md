@@ -8,6 +8,8 @@ https://github.com/mjmlio/mjml
 
 https://starship.rs/
 
+https://tabler-icons.io/
+
 https://github.com/mattpocock/zod-fetch
 
 Yo code
