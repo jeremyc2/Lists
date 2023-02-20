@@ -10,6 +10,8 @@ https://github.com/mjmlio/mjml
 
 https://starship.rs/
 
+https://github.com/jonsuh/hamburgers
+
 https://tabler-icons.io/
 
 https://github.com/mattpocock/zod-fetch
