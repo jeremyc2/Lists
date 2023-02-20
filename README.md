@@ -4,6 +4,8 @@ https://www.one-tab.com/
 
 https://tiptap.dev/
 
+https://github.com/nanostores/nanostores
+
 https://github.com/mjmlio/mjml
 
 https://starship.rs/
