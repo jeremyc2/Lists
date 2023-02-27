@@ -12,6 +12,8 @@ https://github.com/mjmlio/mjml
 
 https://starship.rs/
 
+https://github.com/hwchase17/langchain
+
 https://github.com/jonsuh/hamburgers
 
 https://tabler-icons.io/
