@@ -4,6 +4,8 @@ https://www.one-tab.com/
 
 https://tiptap.dev/
 
+https://github.com/vercel-labs/next-fetch
+
 https://github.com/total-typescript/ts-reset
 
 https://github.com/nanostores/nanostores
