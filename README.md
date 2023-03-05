@@ -2,6 +2,8 @@
 
 https://www.one-tab.com/
 
+linear app (jira replacement)
+
 https://tiptap.dev/
 
 https://github.com/vercel-labs/next-fetch
