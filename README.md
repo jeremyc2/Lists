@@ -1,5 +1,7 @@
 # Lists
 
+https://github.com/Schniz/fnm
+
 https://www.one-tab.com/
 
 linear app (jira replacement)
