@@ -3,6 +3,8 @@ AI:
 nat.dev
 poe.com
 
+streetsidesoftware.code-spell-checker
+
 https://github.com/tldraw/tldraw/blob/main/packages/tldraw/README.md
 
 https://mswjs.io/
