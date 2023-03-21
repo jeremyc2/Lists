@@ -3,6 +3,8 @@ AI:
 nat.dev
 poe.com
 
+https://xata.io/
+
 streetsidesoftware.code-spell-checker
 
 Front Matter Extension
