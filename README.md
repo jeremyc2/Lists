@@ -3,6 +3,8 @@ AI:
 nat.dev
 poe.com
 
+https://npmtrends.com/
+
 https://xata.io/
 
 streetsidesoftware.code-spell-checker
