@@ -3,6 +3,10 @@ AI:
 nat.dev
 poe.com
 
+https://daisyui.com/
+
+https://preline.co/
+
 https://npmtrends.com/
 
 https://xata.io/
