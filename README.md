@@ -3,6 +3,8 @@ AI:
 nat.dev
 poe.com
 
+https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter
+
 https://daisyui.com/
 
 https://preline.co/
