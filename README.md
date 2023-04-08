@@ -5,6 +5,8 @@ poe.com
 
 https://fig.io/pricing
 
+https://www.npmjs.com/package/tsx
+
 https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter
 
 https://daisyui.com/
