@@ -5,6 +5,8 @@ poe.com
 
 https://fig.io/pricing
 
+https://console-ninja.com/
+
 https://www.npmjs.com/package/tsx
 
 https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter
