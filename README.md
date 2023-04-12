@@ -5,6 +5,8 @@ poe.com
 
 https://fig.io/pricing
 
+https://github.com/blitz-js/superjson
+
 https://console-ninja.com/
 
 https://www.npmjs.com/package/tsx
