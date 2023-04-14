@@ -3,6 +3,8 @@ AI:
 nat.dev
 poe.com
 
+https://github.com/gvergnaud/hotscript
+
 https://fig.io/pricing
 
 https://github.com/blitz-js/superjson
