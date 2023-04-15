@@ -1,7 +1,9 @@
 # Lists
-AI:
-nat.dev
-poe.com
+AI:  
+nat.dev. 
+poe.com. 
+
+https://github.com/ai/nanoid
 
 https://github.com/gvergnaud/hotscript
 
