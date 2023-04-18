@@ -5,6 +5,8 @@ nat.dev
 
 poe.com 
 
+https://github.com/yoavbls/pretty-ts-errors
+
 https://github.com/ai/nanoid
 
 https://github.com/gvergnaud/hotscript
