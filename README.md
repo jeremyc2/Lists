@@ -5,6 +5,8 @@ nat.dev
 
 poe.com 
 
+Directus CMS
+
 https://env.t3.gg/
 
 https://docs.sst.dev/
