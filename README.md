@@ -5,6 +5,10 @@ nat.dev
 
 poe.com 
 
+https://unlighthouse.dev/
+
+https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma
+
 https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file
 
 Directus CMS
