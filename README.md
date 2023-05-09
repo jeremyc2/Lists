@@ -5,6 +5,8 @@ nat.dev
 
 poe.com 
 
+https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file
+
 Directus CMS
 
 https://env.t3.gg/
