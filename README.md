@@ -3,6 +3,8 @@ AI:
 
 nat.dev 
 
+gitbook
+
 https://github.com/dcastil/tailwind-merge
 
 https://orm.drizzle.team/
