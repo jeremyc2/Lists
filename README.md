@@ -5,6 +5,8 @@ nat.dev
 
 gitbook
 
+https://github.com/kysely-org/kysely
+
 https://github.com/dcastil/tailwind-merge
 
 https://orm.drizzle.team/
