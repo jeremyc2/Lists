@@ -3,6 +3,10 @@ AI:
 
 nat.dev 
 
+https://react.email/docs/introduction
+
+https://resend.com/
+
 gitbook
 
 https://github.com/kysely-org/kysely
