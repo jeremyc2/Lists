@@ -7,6 +7,8 @@ https://react.email/docs/introduction
 
 https://resend.com/
 
+https://supabase.com/docs
+
 gitbook
 
 https://github.com/kysely-org/kysely
