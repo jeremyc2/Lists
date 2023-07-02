@@ -2,7 +2,7 @@
 
 # Deployments, Infrastructure, Databases and CI
 
-[React Email](https://react.email/)
+* [React Email](https://react.email/)
 
 # Component Libraries
 
