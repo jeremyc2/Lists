@@ -7,6 +7,8 @@
 # Database
 * [Supabase](supabase.com)
 * [Neon](https://neon.tech/)
+* [Directus](https://directus.io/)
+* [Xata](https://xata.io/)
 
 # Component Libraries
 
