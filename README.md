@@ -5,6 +5,8 @@ nat.dev
 
 https://react.email/docs/introduction
 
+https://github.com/alexreardon/tiny-invariant
+
 https://resend.com/
 
 https://supabase.com/docs
