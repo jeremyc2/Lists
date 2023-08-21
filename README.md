@@ -1,5 +1,8 @@
 # Lists
 
+CLI PROMPTS:  
+[npm i enquirer](https://www.npmjs.com/package/enquirer)
+
 https://github.com/vercel/ncc
 
 https://github.com/nektos/act
