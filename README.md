@@ -1,5 +1,7 @@
 # Lists
 
+obsidian md
+
 https://github.com/tr1ckydev/hyperimport
 
 https://docs.oramasearch.com/
