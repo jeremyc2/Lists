@@ -2,6 +2,10 @@
 
 obsidian md
 
+clack
+
+sisteransi
+
 https://github.com/tr1ckydev/hyperimport
 
 https://docs.oramasearch.com/
