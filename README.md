@@ -4,6 +4,8 @@ obsidian md
 
 clack
 
+xtermjs
+
 sisteransi
 
 https://github.com/tr1ckydev/hyperimport
