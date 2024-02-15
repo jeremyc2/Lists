@@ -2,6 +2,8 @@
 
 obsidian md
 
+git butler
+
 clack
 
 xtermjs
