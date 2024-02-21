@@ -1,5 +1,7 @@
 # Lists
 
+https://github.com/0no-co/gql.tada
+
 obsidian md
 
 git butler
