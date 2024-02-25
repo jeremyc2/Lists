@@ -2,6 +2,8 @@
 
 https://github.com/0no-co/gql.tada
 
+https://ui.aceternity.com/
+
 obsidian md
 
 git butler
