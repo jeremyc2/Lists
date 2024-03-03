@@ -4,6 +4,8 @@ https://github.com/0no-co/gql.tada
 
 pangea dnd
 
+appwrite
+
 retool
 refine
 stackblitz
