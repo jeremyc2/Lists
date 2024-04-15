@@ -1,5 +1,8 @@
 # Lists
 
+"deterministic-object-hash"  
+"devalue" - json parser on steriods
+
 https://github.com/0no-co/gql.tada
 
 pangea dnd
