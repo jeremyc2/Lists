@@ -1,5 +1,7 @@
 # Lists
 
+https://www.joshwcomeau.com/react/server-components/
+
 "deterministic-object-hash"  
 "devalue" - json parser on steriods
 
