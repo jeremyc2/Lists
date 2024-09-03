@@ -1,5 +1,7 @@
 # Lists
 
+https://github.com/promplate/partial-json-parser-js
+
 postgres.new
 
 rive.app
