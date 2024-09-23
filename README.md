@@ -4,6 +4,8 @@ https://github.com/promplate/partial-json-parser-js
 
 postgres.new
 
+fzf
+
 rive.app
 
 https://www.alvar.dev/blog/creating-devtools-for-react-server-components
