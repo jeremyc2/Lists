@@ -1,5 +1,7 @@
 # Lists
 
+https://github.com/astral-sh/uv
+
 motion.dev
 
 https://github.com/promplate/partial-json-parser-js
