@@ -1,5 +1,7 @@
 # Lists
 
+ghostty
+
 window manager: https://ianyh.com/amethyst/
 
 https://github.com/astral-sh/uv
