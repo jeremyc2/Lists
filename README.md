@@ -1,5 +1,7 @@
 # Lists
 
+https://github.com/ThePrimeagen/vim-be-good
+
 https://neovim.io/doc/user/lua-guide.html
 https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
 
