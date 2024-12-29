@@ -1,6 +1,7 @@
 # Lists
 
 https://github.com/ThePrimeagen/vim-be-good
+docker run -it --rm taspotts/vim-be-good:stable
 
 https://neovim.io/doc/user/lua-guide.html
 https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
