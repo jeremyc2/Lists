@@ -1,5 +1,8 @@
 # Lists
 
+https://neovim.io/doc/user/lua-guide.html
+https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
+
 https://learnxinyminutes.com
 
 ghostty
