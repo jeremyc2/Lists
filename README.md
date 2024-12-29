@@ -1,5 +1,7 @@
 # Lists
 
+https://learnxinyminutes.com
+
 ghostty
 
 window manager: https://ianyh.com/amethyst/
