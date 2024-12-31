@@ -1,5 +1,7 @@
 # Lists
 
+https://neovim.io/doc/user/nvim.html#nvim-quickstart
+
 https://docs.google.com/spreadsheets/d/15k_UgeY0C3j8tVQnR2hD_kNljB1AApG3x3gYrKtUAlw/edit?gid=1082709605#gid=1082709605
 
 https://github.com/ThePrimeagen/vim-be-good  
