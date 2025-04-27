@@ -1,5 +1,11 @@
 # Lists
 
+Refined Github: https://github.com/refined-github/ref...
+Bruno: https://www.usebruno.com
+Yaak: https://yaak.app
+Svgl: https://www.raycast.com/1weiho/svgl
+Orbstack: https://orbstack.dev
+
 raycast
 
 https://medium.com/@nikmas_dev/vscode-neovim-setup-keyboard-centric-powerful-reliable-clean-and-aesthetic-development-582d34297985
