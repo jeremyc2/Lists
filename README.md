@@ -1,5 +1,7 @@
 # Lists
 
+Agent persona descriptions: https://github.com/msitarzewski/agency-agents
+
 Teach AI design: https://impeccable.style/#hero
 
 Observability: https://axiom.co/
