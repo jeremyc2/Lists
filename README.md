@@ -1,5 +1,7 @@
 # Lists
 
+Teach AI design: https://impeccable.style/#hero
+
 Observability: https://axiom.co/
 
 https://github.com/tobi/qmd
