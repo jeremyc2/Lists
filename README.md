@@ -6,8 +6,8 @@ Teach AI design: https://impeccable.style/#hero
 
 Observability: https://axiom.co/
 
-https://github.com/tobi/qmd
-https://phaser.io/
+https://github.com/tobi/qmd  
+https://phaser.io/  
 memvid
 
 https://json-render.dev/
