@@ -1,5 +1,7 @@
 # Lists
 
+https://github.com/dyoshikawa/rulesync (Effect uses it)
+
 [exa](https://exa.ai/?fl_adid=765938841556&fl_adsrc=google&fl_adntw=g&gad_source=1&gad_campaignid=22834259030&gbraid=0AAAAA-z0DiBKsmw96WFElg4Xh_iPpq1Zd&gclid=Cj0KCQjwmunNBhDbARIsAOndKpkETX7BJK-ZpH2UudC44fmqvAkMnQPTKsD0G-UanimFH4sqlHP3UAgaAn-aEALw_wcB) - The best AI search?
 
 Agent persona descriptions: https://github.com/msitarzewski/agency-agents
