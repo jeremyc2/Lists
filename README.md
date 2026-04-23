@@ -1,5 +1,8 @@
 # Lists
 
+https://docs.fallow.tools/  
+https://github.com/alchemy-run/alchemy-effect  
+
 Varlock vs fnox
 
 https://juniperdev-yt.itch.io/
