@@ -1,5 +1,9 @@
 # Lists
 
+https://herdr.dev/
+
+https://mosh.org/
+
 https://github.com/mattpocock/sandcastle
 
 https://docs.fallow.tools/  
