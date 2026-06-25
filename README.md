@@ -1,5 +1,7 @@
 # Lists
 
+https://www.magicpath.ai/
+
 https://rivet.dev/
 
 https://github.com/kitlangton/motel
